@@ -1,5 +1,5 @@
 ---
-type: project
+type: projects
 title: advertools
 client_abbrev: DWM
 pm-board:
