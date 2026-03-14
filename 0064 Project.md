@@ -8,13 +8,16 @@ description: "Advertools (fork)"
 status: active
 priority: normal
 version: 0.1.0
-dateCreated: "2026-02-24T00:00:00-05:00"
-dateModified: "2026-02-24T00:00:00-05:00"
-area: development
+dateCreated: 2026-02-24T00:00
+dateModified: 2026-02-24T00:00
+domain: dwm
 monday-item-id:
   11449887660
   - monday
 focus-areas: []
+visibility: private
+publish-target: none
+publish-ready: false
 tags:
   - DWM
   - pid-0064
