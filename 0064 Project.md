@@ -5,7 +5,7 @@ project-id: "0064"
 client_abbrev: DWM
 client_name: "Dew Wealth Management"
 description: "Advertools (fork)"
-status: active
+status: archived
 priority: normal
 version: 0.1.0
 dateCreated: 2026-02-24T00:00
